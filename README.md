@@ -28,12 +28,12 @@ A progressive 4-step demo showing how to integrate Ollama with Python to load an
 
 ## 📚 What Each Step Does
 
-| Step | Feature | Lines | Demo |
-|------|---------|-------|------|
-| **1** | Basic Connection | 12 | Single question → answer |
-| **2** | Conversation Memory | 22 | Interactive chat with context |
-| **3** | Real-time Streaming | 29 | Word-by-word responses |
-| **4** | AI Thinking Display | 45 | See AI reasoning in real-time |
+| Step | Feature | Demo |
+|------|---------|------|
+| **1** | Basic Connection | Single question → answer |
+| **2** | Conversation Memory | Interactive chat with context |
+| **3** | Real-time Streaming | Word-by-word responses |
+| **4** | AI Thinking Display | See AI reasoning in real-time |
 
 ## 🎯 Key Features
 
