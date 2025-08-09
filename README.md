@@ -5,7 +5,7 @@ Build a Complete AI Chat System with Ollama + Python in a Few Steps! Starting fr
 
 A progressive 4-step demo showing how to integrate Ollama with Python to load an run gpt-oss-20b, from basic connection to advanced AI thinking display.
 
-## 🚀 Quick Start
+## 🚀 Quick Start 
 
 1. **Install Ollama** and pull the model:
    ```bash
