@@ -1,4 +1,4 @@
-# STEP 4: Real-time AI Thinking Display
+# STEP 4: Real-time AI Thinking Display 
 # Shows thinking WHILE it happens, not after completion
 
 import requests
