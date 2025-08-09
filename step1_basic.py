@@ -1,4 +1,4 @@
-# STEP 1: Basic Ollama Connection 
+# STEP 1: Basic Ollama Connection
 
 import requests
 
