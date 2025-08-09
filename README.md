@@ -58,7 +58,7 @@ response = requests.post("http://localhost:11434/api/chat", json={
 })
 ```
 
-### AI Thinking (Step 5)
+### AI Thinking (Step 4)
 ```bash
 User: What is Chain-of-Thought in LLMs?
 
@@ -69,7 +69,7 @@ AI answer: Chain-of-Thought (CoT) is a prompting technique that guides LLMs to s
 
 ## 🛠️ Requirements
 
-- **Ollama** running locally (`ollama serve`)
+- **Ollama** running locally - free version (`ollama serve`)
 - **Python 3.7+** with `requests` library
 - **Model**: `gpt-oss:20b` (or change `MODEL_NAME` variable)
 
