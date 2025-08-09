@@ -1,4 +1,4 @@
-# STEP 3: Add Streaming Responses
+# STEP 3: Add Streaming Responses 
 
 import requests
 import json
